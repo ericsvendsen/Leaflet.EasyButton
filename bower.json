@@ -10,7 +10,7 @@
     "src/easy-button.css"
   ],
   "dependencies": {
-    "leaflet": "~1.0.1"
+    "leaflet": "^1.0.1"
   },
   "keywords": [
     "Leaflet",
